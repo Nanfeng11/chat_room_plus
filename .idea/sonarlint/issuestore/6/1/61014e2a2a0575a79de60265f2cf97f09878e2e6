@@ -1,0 +1,7 @@
+
+msquid:UselessImportCheck"CRemove this unused import 'com.alibaba.druid.pool.DruidDataSource'.(ûÀ∏)8π≠µ®«-
+usquid:UselessImportCheck"JRemove this unused import 'com.alibaba.druid.pool.DruidDataSourceFactory'.(ƒê∆8π≠µ®«-
+asquid:UselessImportCheck"7Remove this unused import 'com.nanfeng.util.CommUtils'.(Ωæß8π≠µ®«-
+\squid:UselessImportCheck
+"1Remove this unused import 'java.util.Properties'.(¨µé≤8π≠µ®«-
+bsquid:UselessImportCheck"7Remove this unused import 'org.junit.jupiter.api.Test'.(÷∫àﬂ8π≠µ®«-
