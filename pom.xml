@@ -49,7 +49,7 @@
             <artifactId>commons-codec</artifactId>
             <version>1.11</version>
         </dependency>
-        <!--json：前后端交互标准-->
+        <!--json：前后端交互标准，序列化和反序列化-->
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>

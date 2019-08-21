@@ -1,0 +1,15 @@
+
+¥squid:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8¯£åË-
+ squid:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ8¯£åË-
+=squid:S1700"Rename field "friendsList"(“àüÁÿÿÿÿÿ8ò„ñ÷È-
+psquid:S37761"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(“–ış8‹ËõÏÊ-
+¥squid:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8¯£åË-
+Fsquid:S1604ë"(Make this anonymous inner class a lambda(ç¥©D8¯£åË-
+¥squid:S1186–"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ8¯£åË-
+¥squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8¯£åË-
+Esquid:S21892""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÖŸ²ÍÊ-
+ squid:S1186Æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ8¯£åË-
+jsquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(“ ç«8¯£åË-
+¥squid:S1186¥"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8¯£åË-
+ksquid:HiddenFieldCheckş"<Rename "userName" which hides the field declared at line 29.(Ñş½ğşÿÿÿÿ8¯£åË-
+¥squid:S1186Á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ8¯£åË-

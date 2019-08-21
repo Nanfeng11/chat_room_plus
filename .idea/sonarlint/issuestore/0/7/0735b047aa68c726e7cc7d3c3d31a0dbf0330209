@@ -1,0 +1,32 @@
+
+nsquid:S2095œ"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Å´Æßşÿÿÿÿ8ÍĞäË-
+U
+squid:S106i"9Replace this use of System.out or System.err by a logger.(™ëÜ8À´ŞË-
+`squid:HiddenFieldCheckY"7Rename "out" which hides the field declared at line 41.(ô–Íå8À´ŞË-
+asquid:HiddenFieldCheck’"7Rename "out" which hides the field declared at line 41.(Ÿşª8ÍĞäË-
+\
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(Ã¾óÓøÿÿÿÿ8ÍĞäË-
+Esquid:S21898""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8À´ŞË-
+Fsquid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8À´ŞË-
+Isquid:S1068"&Remove this unused "IP" private field.(Æèæçùÿÿÿÿ8À´ŞË-
+psquid:S37766"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(“–ış8À´ŞË-
+V
+squid:S106}"9Replace this use of System.out or System.err by a logger.(İ£•Â8Ù–‚Ë-
+csquid:UselessImportCheck
+"8Remove this unused import 'java.security.MessageDigest'.(Œğ²»8ü©öÈ-
+isquid:S1192/"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(Ôœäãúÿÿÿÿ8À´ŞË-
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(šˆÆšûÿÿÿÿ8À´ŞË-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍĞäË-
+Gsquid:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍĞäË-
+hsquid:HiddenFieldChecks":Rename "client" which hides the field declared at line 39.(é¥ø…şÿÿÿÿ8À´ŞË-
+V
+squid:S106N"9Replace this use of System.out or System.err by a logger.(å¡©Š8À´ŞË-
+[
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ˆÄ®†şÿÿÿÿ8»ğùË-
+W
+squid:S106 "9Replace this use of System.out or System.err by a logger.(–½§Ó8ÍĞäË-
+U
+squid:S106^"9Replace this use of System.out or System.err by a logger.(§Ò†28À´ŞË-
+Fsquid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8À´ŞË-
+esquid:HiddenFieldChecku"7Rename "out" which hides the field declared at line 41.(©·òºùÿÿÿÿ8ŠãáË-

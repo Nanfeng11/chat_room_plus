@@ -1,0 +1,13 @@
+
+Jsquid:S1068",Remove this unused "loginBtn" private field.(Öî©ì8äùÓ€È-
+Nsquid:S1068"+Remove this unused "qqPanel" private field.(ã¢®¹þÿÿÿÿ8£þ¹€È-
+Msquid:S1068"/Remove this unused "registerBtn" private field.(—°Ž¢8ªÈÒ€È-
+Nsquid:S1068
+"0Remove this unused "GUITestPanel" private field.(î×¦§8·š¸€È-
+Isquid:S1068"+Remove this unused "qqLabel" private field.(ÏÎÓö8ç¡½€È-
+Osquid:S1068"1Remove this unused "usernamePanel" private field.(¹õÝù8¼µÅ€È-
+Psquid:S1068"2Remove this unused "passwordField1" private field.(‹ÎÛŸ8¾ÈÍ€È-
+vsquid:S00116
+"WRename this field "GUITestPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î×¦§8·š¸€È-
+Lsquid:S1068".Remove this unused "textField1" private field.(×ŒàÌ8ŠÀÇ€È-
+Osquid:S1068"1Remove this unused "passwordPanel" private field.(¬§¶‰8ý÷È€È-

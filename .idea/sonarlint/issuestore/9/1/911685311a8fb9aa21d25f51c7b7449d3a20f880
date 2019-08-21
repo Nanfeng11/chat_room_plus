@@ -1,0 +1,8 @@
+
+Usquid:S1068"2Remove this unused "connect2Server" private field.(óÖÀ—ıÿÿÿÿ8Šç£Ë-
+Hsquid:S1068"*Remove this unused "myName" private field.(êç†Œ8çó¡Ë-
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ÛŞŸŸ8­©òË-
+Psquid:S1068"-Remove this unused "groupName" private field.(‡³‚öûÿÿÿÿ8¨ú•Ë-
+Nsquid:S1068"+Remove this unused "friends" private field.(ìİéƒùÿÿÿÿ8¤æË-
+Fsquid:S1148J"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8„’ÆË-

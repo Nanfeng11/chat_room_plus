@@ -1,0 +1,10 @@
+
+Fsquid:S1148d"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8Óò’öÈ-
+Lsquid:S1481o".Remove this unused "userLogin" local variable.(»–ùè8Óò’öÈ-
+Fsquid:S16044"(Make this anonymous inner class a lambda(ÖãºÂ8Óò’öÈ-
+[
+squid:S106]"9Replace this use of System.out or System.err by a logger.(÷ë¥ùÿÿÿÿ8õ©¹÷È-
+Ksquid:S1604+"(Make this anonymous inner class a lambda(—Ô¥ªøÿÿÿÿ8Óò’öÈ-
+}squid:S00116"YRename this field "UserLoginPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¯•ûÿÿÿÿ8Óò’öÈ-
+Ksquid:S1068"-Remove this unused "userPanel" private field.(ƒ¨ßÿ8êæ÷§È-
+Osquid:S1068",Remove this unused "btnPanel" private field.(à·¤ûûÿÿÿÿ8Óò’öÈ-

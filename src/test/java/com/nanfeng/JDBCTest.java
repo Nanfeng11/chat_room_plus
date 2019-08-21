@@ -20,6 +20,8 @@ public class JDBCTest {
     //加载数据源
     private static DruidDataSource dataSource;
 
+    //初始化静态资源
+    // 静态代码块，在类加载的时候执行，只执行一次
     static {
         Properties props = CommUtils.loadProperties("datasource.properties");
         try {
@@ -86,11 +88,11 @@ public class JDBCTest {
             connection = (Connection) dataSource.getPooledConnection();
             String password = DigestUtils.md5Hex("123");
             String sql = "INSERT INTO user(username, password, brief) " + "VALUES (?,?,?)";
-            String brief = new String("测试".getBytes(),"UTF-8");
+//            String brief = new String("测试".getBytes(),"UTF-8");
             statement = connection.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);
             statement.setString(1, "test1");
             statement.setString(2, password);
-            statement.setString(3,brief);
+            statement.setString(3,"西洲");
             int rows = statement.executeUpdate();
             Assert.assertEquals(1, rows);
         } catch (SQLException e) {
@@ -146,7 +148,7 @@ public class JDBCTest {
         closeResources(connection, statement);
         if (resultSet != null) {
             try {
-                connection.close();
+                resultSet.close();
             } catch (SQLException e) {
                 e.printStackTrace();
             }

@@ -1,0 +1,9 @@
+
+Nsquid:S1068"+Remove this unused "friends" private field.(ìİéƒùÿÿÿÿ8¨›ÚĞÊ-
+Fsquid:S1148f"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8ÈÖË-
+nsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(…÷Çıùÿÿÿÿ8«¶­Ë-
+Hsquid:S1068"*Remove this unused "myName" private field.(êç†Œ8¨›ÚĞÊ-
+Rsquid:S1068"/Remove this unused "friendsList" private field.(íÄçÆûÿÿÿÿ8ÕÓŒË-
+Ksquid:S1604C"(Make this anonymous inner class a lambda(ò¸†©ÿÿÿÿÿ8ÈÖË-
+Usquid:S1068"2Remove this unused "connect2Server" private field.(óÖÀ—ıÿÿÿÿ8ÙÍÚĞÊ-
+nsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(†«›ıÿÿÿÿ8«¶­Ë-

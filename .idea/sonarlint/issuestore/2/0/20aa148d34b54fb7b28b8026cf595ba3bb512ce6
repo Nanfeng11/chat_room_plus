@@ -1,0 +1,6 @@
+
+Usquid:S1068"2Remove this unused "connect2Server" private field.(óÖÀ—ıÿÿÿÿ8€™½ÏÊ-
+Hsquid:S1068"*Remove this unused "myName" private field.(êç†Œ8ÄÉ‹ÎÊ-
+Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€™½ÏÊ-
+Qsquid:S1068".Remove this unused "friendName" private field.(İ„Èµûÿÿÿÿ8¯ù…ÎÊ-
+zsquid:S00116"[Rename this field "PrivateChatPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒŒÜ’8€™½ÏÊ-
